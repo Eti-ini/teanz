@@ -87,7 +87,7 @@ a:hover{
 /* for each images in the divs */
 .welcome{
     position: relative;
-    height: 100vh;
+    height: 80vh;
     width: 100%;
     background-image: url("bg-11.jpeg");
     background-size: cover;
