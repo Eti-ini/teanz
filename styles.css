@@ -231,8 +231,12 @@ responsive designs */
 .girl-img{
     height: 40vh;
 }
-    
+.welcome{
+    height: 100vh;  
 }
+.more-wrapper{
+    height: 100vh;
+    }
 @media only screen and (max-width:751px){
     html{
     font-size: 110%;}
